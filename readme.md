@@ -1,7 +1,7 @@
 # Welcome,  I'm Gabriel :wave: 
 
 - I'm a data science student
-- Working at Itaú-Unibanco
+- Working at Itaú-Unibanco as a Data Analyst
 - My main programming language is Python
 
 <br />
